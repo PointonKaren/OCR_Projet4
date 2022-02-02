@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: #203149;
 }
 
 .d-bloc button:hover {
@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: #203149;
 }
 
 .d-bloc .a-btn:hover,
@@ -150,7 +150,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: #313131;
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #203149!important;
 }
 
 .container {
@@ -723,7 +723,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #203149!important;
 }
 
 h4 {
@@ -736,7 +736,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: white!important;
 }
 
 .portfolio-thumb {
@@ -771,25 +771,25 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #B0D0BE;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #203149!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #B0D0BE;
+    color: #203149!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
+    background: #CEE6C5!important;
+    color: #313131!important;
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: yellow!important;
 }
 
 .ltc-white:hover {
