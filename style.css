@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: #203149;
+    color: rgba(255, 255, 255, .7);
 }
 
 .d-bloc button:hover {
@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: #203149;
+    color: white;
 }
 
 .d-bloc .a-btn:hover,
@@ -150,7 +150,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: #313131;
+    color: rgb(230, 230, 230);
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -651,9 +651,11 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #203149!important;
+    color: #575757!important;
 }
-
+.annuaire {
+    color: white!important;
+}
 .container {
     max-width: 1000px;
 }
@@ -736,7 +738,7 @@ h4 {
 }
 
 .white {
-    color: white!important;
+    color: #FFFFFF!important;
 }
 
 .portfolio-thumb {
@@ -753,7 +755,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(176, 208, 190, 0.7);
+    background-color: rgba(145, 114, 55, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -767,11 +769,11 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: darkslateblue;
+    background-color: #364577;
 }
 
 .bgc-atomic-tangerine {
-    background-color: #B0D0BE;
+    background-color: #C9510C;
 }
 
 .tc-white {
@@ -779,17 +781,17 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #B0D0BE;
-    color: #203149!important;
+    background: #C9510C;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #CEE6C5!important;
-    color: #313131!important;
+    background: #A96642!important;
+    color: #FFFFFF!important;
 }
 
 .ltc-white {
-    color: white!important;
+    color: #FFFFFF!important;
 }
 
 .ltc-white:hover {
@@ -797,11 +799,11 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #C9510C!important;
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: #A96642!important;
 }
 
 .icon-dark-slate-blue {
